@@ -6,4 +6,6 @@ const {obtenerTareaPorId } = tareaController;
 
 router.get('/tareas/:id', obtenerTareaPorId);
 
+router.post('/', tareaController.crearTarea);
+
 module.exports = router;

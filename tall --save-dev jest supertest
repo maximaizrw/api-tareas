@@ -1,0 +1,48 @@
+[33mcommit bac515047d2e13542a12a343ca28e9e93a4a1f7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b9ea19b 3243fe7
+Author: Maximiliano Damian Maiz <maximaizrw@gmail.com>
+Date:   Wed May 13 18:34:13 2026 -0300
+
+    Merge pull request #2 from maximaizrw/feature-crear-tarea
+    
+    Feature crear tarea
+
+[33mcommit 3243fe70916785ac031de5c936a52522701bb95e[m[33m ([m[1;31morigin/feature-crear-tarea[m[33m)[m
+Merge: d1d72e0 b9ea19b
+Author: Maximiliano Damian Maiz <maximaizrw@gmail.com>
+Date:   Wed May 13 18:33:54 2026 -0300
+
+    Merge branch 'main' into feature-crear-tarea
+
+[33mcommit d1d72e0d3da984df5f2a46e5b16cfe29dfda1d20[m[33m ([m[1;32mfeature-crear-tarea[m[33m)[m
+Author: chalos67 <chalosampini@hotmail.com>
+Date:   Wed May 13 18:25:31 2026 -0300
+
+    se corrigio nombre post/tareas
+
+[33mcommit b9ea19b3d7c786e2c30f093669bf4f21e494e25b[m
+Merge: b247fbe f95048f
+Author: Maximiliano Damian Maiz <maximaizrw@gmail.com>
+Date:   Wed May 13 18:21:13 2026 -0300
+
+    Merge pull request #1 from maximaizrw/feature-detalle-tarea
+    
+    Se crea controlador y rutas para obtener tareas por ID
+
+[33mcommit d57a26107c8e2088a23f24cc4af3f126e8db0d20[m
+Author: chalos67 <chalosampini@hotmail.com>
+Date:   Wed May 13 18:17:33 2026 -0300
+
+    Se creo endpoint crearTarea
+
+[33mcommit f95048f0ddf821101c5bf18ffc00622aba05df16[m[33m ([m[1;31morigin/feature-detalle-tarea[m[33m)[m
+Author: maximaizrw <maximaizrw@gmail.com>
+Date:   Wed May 13 11:42:21 2026 -0300
+
+    Se crea controlador y rutas para obtener tareas por ID
+
+[33mcommit b247fbea53cb993807aea1131f1795eb13a2d6ec[m
+Author: maximaizrw <maximaizrw@gmail.com>
+Date:   Wed May 13 11:32:47 2026 -0300
+
+    Configuracion inicial

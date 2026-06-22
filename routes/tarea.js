@@ -6,7 +6,7 @@ const {obtenerTareaPorId, obtenerTareas } = tareaController;
 
 router.get('/', obtenerTareas);
 
-router.get('/tareas/:id', obtenerTareaPorId);
+router.get('/:id', obtenerTareaPorId);
 
 router.post('/', tareaController.crearTarea);
 

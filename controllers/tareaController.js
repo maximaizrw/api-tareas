@@ -4,6 +4,10 @@ const tareas = [
   { id: 3, titulo: "Subir proyecto a GitHub" }
 ];
 
+const obtenerTareas = (req, res) => {
+  res.json(tareas);
+};
+
 const crearTarea = (req, res) => {
 
   const nuevaTarea = {
@@ -35,5 +39,6 @@ const obtenerTareaPorId = (req, res) => {
 
 module.exports = {
   crearTarea,
-  obtenerTareaPorId
+  obtenerTareaPorId,
+  obtenerTareas
 };

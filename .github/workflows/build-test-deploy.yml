@@ -3,7 +3,7 @@ name: Build Test Deploy - Testing
 on:
   push:
     branches:
-      - testing
+      - feature/testing
 
 permissions:
   contents: read
